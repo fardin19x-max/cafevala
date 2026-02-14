@@ -82,3 +82,4 @@ npm run deploy
 - منطق قیمت/تخفیف و Snapshot فقط در API است.
 - تخفیف‌ها فقط از پنل مدیریت و جدول `discount_rules` کنترل می‌شوند.
 
+deploy
