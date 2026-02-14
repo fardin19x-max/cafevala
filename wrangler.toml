@@ -1,8 +1,8 @@
-name = "cafevala"
+name = "fragrant-pond-9819"
 main = "src/worker.js"
 compatibility_date = "2025-01-01"
 
 [[d1_databases]]
 binding = "DB"
 database_name = "cafe-vala"
-database_id = "ID_واقعی_دیتابیس"
+database_id = "REPLACE_ME"
