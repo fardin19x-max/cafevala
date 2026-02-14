@@ -5,4 +5,4 @@ compatibility_date = "2025-01-01"
 [[d1_databases]]
 binding = "DB"
 database_name = "cafe-vala"
-database_id = "ID_4487de84-c23c-4c01-a22e-a26a605f4eb4_D1"
+database_id = "4487de84-c23c-4c01-a22e-a26a605f4eb4"
