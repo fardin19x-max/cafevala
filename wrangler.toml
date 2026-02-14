@@ -2,8 +2,7 @@ name = "cafevala"
 main = "src/worker.js"
 compatibility_date = "2025-01-01"
 
-# D1 binding
 [[d1_databases]]
 binding = "DB"
 database_name = "cafe-vala"
-database_id = "REPLACE_ME"
+database_id = "ID_واقعی_دیتابیس"
